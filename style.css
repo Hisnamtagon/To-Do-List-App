@@ -59,7 +59,7 @@ input {
 button{
     border: none;
     outline: none;
-    padding: 15px 50px;
+    padding: 15px 40px;
     background: #3782f9 ;
     color: #fff;
     font-size: 16px;
@@ -129,11 +129,13 @@ ul li span:hover{
     }
     
     input {
-        padding: 8px 5px;
+        width: 80%;
+        padding: 3px 2px;
         font-size: 14px;
     }
     button {
-        padding: 12px 25px; 
+        width: 25%;
+        padding: 10px 15px; 
         font-size: 16px;
     }
 }
